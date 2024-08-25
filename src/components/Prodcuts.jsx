@@ -216,7 +216,7 @@ export default function Products() {
             setCartItems([])
             setIsModalOpen(false)
           }}
-          className='text-white bg-[#C73A0F] border-2 font-redHat  text-sm border-[#C73A0F] py-2.5 px-5 rounded-3xl w-full'>Start New Order</button>
+          className='text-white bg-[#C73A0F] border font-redHat  text-sm border-[#C73A0F] py-2.5 px-5 rounded-3xl w-full hover:shadow-lg hover:border-[#C73A0F] ease-in-out transition duration-300 hover:bg-red-500'>Start New Order</button>
           </div>
           </div>
           
